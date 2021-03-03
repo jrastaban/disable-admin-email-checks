@@ -1,4 +1,4 @@
 {
     "name": "jrastaban/disable-admin-email-checks",
-    "type": "library"
+    "type": "wordpress-plugin"
 }
